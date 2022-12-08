@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/FilleDeZeus/RESUME#readme",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.1",
     "bootstrap": "^5.2.3"
   }
 }
